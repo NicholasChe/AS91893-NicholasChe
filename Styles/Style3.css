@@ -1,0 +1,130 @@
+#page_container { 
+    
+    width: 1700px; 
+
+    margin: 0 auto; 
+
+    border: 1px solid black; 
+
+    box-shadow: 0px 0px 48px 16px rgba(0,0,0, 0.175); 
+
+} 
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: rgb(255, 255, 255);
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo {
+    width: 50px;
+}
+
+#logo img {
+    width: 50px;
+}
+
+nav a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+    justify-content: space-around;
+}
+
+#watch {
+    background: rgb(46, 255, 27);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+#header2 {  
+    background: rgb(2, 68, 0);
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+#header3 {
+    background: rgb(0, 0, 0);
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 12px;
+}
+
+.date {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.west {
+    color: red;
+}
+
+.lake {
+    color: lime;
+}
+
+.header4 {
+    display: flex;
+    justify-content: space-around;
+    background: blue;
+    color: white;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#logo2 {
+    text-align: center;
+    margin: 20px 0;
+    position: relative;
+}
+
+#logo2 img {
+    width: 1890px;
+}
+
+#header5 {
+    background: grey;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#header6 {
+    background: rgb(241, 121, 121);
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#logo3 {
+    text-align: center;
+    margin: 20px 0;
+    position: relative;
+}
+
+#logo3 img {
+    width: 500px;
+}
